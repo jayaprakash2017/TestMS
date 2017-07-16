@@ -4,7 +4,7 @@
   <groupId>com.test.ms</groupId>
   <artifactId>MSTest1</artifactId>
   <packaging>war</packaging>
-  <version>1.9-SNAPSHOT</version>
+  <version>1.9SNAPSHOT</version>
   <name>MSTest1 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
